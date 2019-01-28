@@ -76,6 +76,7 @@
   <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" />
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />
 
   <!-- System -->
