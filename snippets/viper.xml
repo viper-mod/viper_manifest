@@ -56,4 +56,9 @@
   <project path="vendor/themes" name="viper_vendor_themes" remote="viper" />
   <project path="viper/manifest" name="viper_manifest" remote="vmod" />
 
+  <!-- honor5x -->
+  <project path="device/huawei/kiwi" name="android_device_hauwei_kiwi" remote="vmod" />
+  <project path="kernel/hauwei/kiwi" name="android_kernel_hauwei_kiwi" remote="vmod" />
+  <project path="vendor/huawei/kiwi" name="android_vendor_hauwei_kiwi" remote="vmod" />
+
 </manifest>
